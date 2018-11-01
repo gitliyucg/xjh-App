@@ -1,0 +1,30 @@
+.head_r i{
+	font-size: 30px;
+}
+
+.body_wrap{
+	margin-top: 74px;
+}
+
+.body_content{
+	width: 702px;
+	margin: 0 auto;
+}
+
+.float_left{
+	float: left;
+}
+
+.float_right{
+	float: right;
+}
+
+.clearBoth:after{
+	content: '';
+	display: block;
+	clear: both;
+}
+
+.swiper-slide img{
+	width: 100%;
+}
